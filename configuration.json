@@ -1,0 +1,12 @@
+[
+  {
+    "csvFullPath": "",
+    "columnsToDelete": [""],
+    "headersToRename": [
+      {
+        "source": "",
+        "target": ""
+      }
+    ]
+  }
+]
